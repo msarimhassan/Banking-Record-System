@@ -24,6 +24,7 @@ class alpha
 public:
 	void create_node()
 	{
+		// Did some changing
 		beta *a = new beta;
 		cout << "Please Enter Your CNIC No.  : ";
 		cin >> a->data;
